@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lunaurora
 - 👀 I’m interested in mathematics,potato and dream!
 - 🌱 I’m currently learning typewriting and C.
-- 📫 How to reach me ...HHH
+- 📫 How to reach me？ HHH
 - ⚡ Fun fact:I konw nothing about this world!
 
 <!---
